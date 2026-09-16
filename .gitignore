@@ -1,0 +1,9 @@
+libopencm3/
+build/
+bin/
+compile_commands.json
+generated.*.ld
+*.o
+*.elf
+*.bin
+*.hex
